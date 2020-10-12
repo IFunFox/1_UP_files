@@ -1,0 +1,17 @@
+FTP封包分析
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+----
+C:\Users\KSUIE>ftp 120.114.62.207
+已連線到 120.114.62.207。
+220 (vsFTPd 3.0.3)
+200 Always in UTF8 mode.
+使用者 (120.114.62.207:(none)): asd123
+331 Please specify the password.
+密碼:
+530 Login incorrect.
+登入失敗。
+ftp>
+----
+
+can to承受ddos
+
