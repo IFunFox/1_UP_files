@@ -13,7 +13,10 @@ Firmware>Security
 
 確認某主機作業系統 nmap -O
 
-確認主機是否有漏洞
+確認主機是否有漏洞 nmap 
+  --script vuln
+  --script smb-vuln-ms08-067.nse -p445 <host>
+   
 
 MS-08年-067
 
@@ -34,3 +37,15 @@ powershell
 
 MAC address
 CVE-2020-0796
+windows cve smb
+
+cve
+Google hacking
+kali
+nmap.org
+
+RCE
+
+taskkill /?
+
+https://nmap.org/nsedoc/categories/vuln.html
