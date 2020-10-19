@@ -11,7 +11,7 @@ Firmware>Security
 
 確認某主機是否live(活著) nmap -O 檢測的電腦ip
 
-確認某主機作業系統
+確認某主機作業系統 nmap -O
 
 確認主機是否有漏洞
 
@@ -32,3 +32,5 @@ processPID?
 
 powershell
 
+MAC address
+CVE-2020-0796
