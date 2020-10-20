@@ -41,3 +41,5 @@ RCE
 taskkill /?
 
 https://nmap.org/nsedoc/categories/vuln.html
+
+nmap兩大技術 一般掃描  nse  Nmap Scripting Engine
