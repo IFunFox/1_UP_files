@@ -6,8 +6,10 @@ software->systemOS
 Hardware>Security
 Firmware>Security
 
+ifconfig
+
 網段中有那些系統開啟>指令:
-  ifconfig
+  
   netdiscover -r 10.0.2.0/24<--區段分割ip
 
 確認某主機是否live(活著) nmap -O 檢測的電腦ip
