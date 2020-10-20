@@ -9,7 +9,8 @@
 
 確認某主機作業系統 nmap -O 主機ip
 
-確認主機是否有漏洞 nmap --script vuln 漏洞全檢查                      
+確認主機是否有漏洞 nmap --script vuln 漏洞全檢查      
+
                       --script smb-vuln-ms08-067.nse -p445   檢測ms08-067此漏洞
                       
 註.1  Google hacking最先進的漏洞檢查
