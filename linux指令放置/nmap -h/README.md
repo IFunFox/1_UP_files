@@ -22,7 +22,7 @@ HOST DISCOVERY:
       -n/-R: Never do DNS resolution/Always resolve [default: sometimes]
       --dns-servers <serv1[,serv2],...>: Specify custom DNS servers
       --system-dns: Use OS's DNS resolver
-  --traceroute: Trace hop path to each host
+      --traceroute: Trace hop path to each host
 ---
 SCAN TECHNIQUES:
 ---
