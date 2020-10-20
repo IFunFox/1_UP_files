@@ -13,37 +13,37 @@ TARGET SPECIFICATION:
 
 HOST DISCOVERY:
 ---
-  -sL: List Scan - simply list targets to scan
-  -sn: Ping Scan - disable port scan
-  -Pn: Treat all hosts as online -- skip host discovery
-  -PS/PA/PU/PY[portlist]: TCP SYN/ACK, UDP or SCTP discovery to given ports
-  -PE/PP/PM: ICMP echo, timestamp, and netmask request discovery probes
-  -PO[protocol list]: IP Protocol Ping
-  -n/-R: Never do DNS resolution/Always resolve [default: sometimes]
-  --dns-servers <serv1[,serv2],...>: Specify custom DNS servers
-  --system-dns: Use OS's DNS resolver
+      -sL: List Scan - simply list targets to scan
+      -sn: Ping Scan - disable port scan
+      -Pn: Treat all hosts as online -- skip host discovery
+      -PS/PA/PU/PY[portlist]: TCP SYN/ACK, UDP or SCTP discovery to given ports
+      -PE/PP/PM: ICMP echo, timestamp, and netmask request discovery probes
+      -PO[protocol list]: IP Protocol Ping
+      -n/-R: Never do DNS resolution/Always resolve [default: sometimes]
+      --dns-servers <serv1[,serv2],...>: Specify custom DNS servers
+      --system-dns: Use OS's DNS resolver
   --traceroute: Trace hop path to each host
 ---
 SCAN TECHNIQUES:
 ---
-  -sS/sT/sA/sW/sM: TCP SYN/Connect()/ACK/Window/Maimon scans
-  -sU: UDP Scan
-  -sN/sF/sX: TCP Null, FIN, and Xmas scans
-  --scanflags <flags>: Customize TCP scan flags
-  -sI <zombie host[:probeport]>: Idle scan
-  -sY/sZ: SCTP INIT/COOKIE-ECHO scans
-  -sO: IP protocol scan
-  -b <FTP relay host>: FTP bounce scan
+      -sS/sT/sA/sW/sM: TCP SYN/Connect()/ACK/Window/Maimon scans
+      -sU: UDP Scan
+      -sN/sF/sX: TCP Null, FIN, and Xmas scans
+      --scanflags <flags>: Customize TCP scan flags
+      -sI <zombie host[:probeport]>: Idle scan
+      -sY/sZ: SCTP INIT/COOKIE-ECHO scans
+      -sO: IP protocol scan
+      -b <FTP relay host>: FTP bounce scan
 ---
 PORT SPECIFICATION AND SCAN ORDER:
 ---
-  -p <port ranges>: Only scan specified ports
-    Ex: -p22; -p1-65535; -p U:53,111,137,T:21-25,80,139,8080,S:9
-  --exclude-ports <port ranges>: Exclude the specified ports from scanning
-  -F: Fast mode - Scan fewer ports than the default scan
-  -r: Scan ports consecutively - don't randomize
-  --top-ports <number>: Scan <number> most common ports
-  --port-ratio <ratio>: Scan ports more common than <ratio>
+      -p <port ranges>: Only scan specified ports
+        Ex: -p22; -p1-65535; -p U:53,111,137,T:21-25,80,139,8080,S:9
+      --exclude-ports <port ranges>: Exclude the specified ports from scanning
+      -F: Fast mode - Scan fewer ports than the default scan
+      -r: Scan ports consecutively - don't randomize
+      --top-ports <number>: Scan <number> most common ports
+      --port-ratio <ratio>: Scan ports more common than <ratio>
 ---
 SERVICE/VERSION DETECTION:
 ---
