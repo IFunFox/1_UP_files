@@ -1,4 +1,6 @@
-![]
+---
+https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B
+---
 # 第7層 應用層
 ---
 
