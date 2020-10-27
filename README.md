@@ -68,3 +68,11 @@ php loging
 jsp dowa web
 
 packt
+
+重建階段:
+不可能
+重要需要先做
+
+測試演練
+相關人(ALL)員熟悉
+
