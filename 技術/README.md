@@ -29,10 +29,12 @@
     請問在這兩個通訊協定模式中，負責傳輸封包（Packet）及選擇路徑（Routing），是那一層的工作？ 
     (A) 實體層（Physical Layer） (B) 資料鏈結層（Data-Link Layer） 
     (C) 網路層（Network Layer） (D) 應用層（Application Layer）
+    
     實體層
     資料鏈結層
     網路層
-
+    應用層
+    
 ---
 ### 作業系統 資訊安全策略:
 ---
