@@ -39,6 +39,14 @@
     
     屬性存取控制（Attribute-based Access Control，ABAC） 
     1.存取控制
-    2.
+    
+---
+
+---
+    請問此 cat ~/.bash_history 指令的目的為?
+    (A) 列出使用者目錄
+    (B) 列出系統目錄
+    (C) 列出使用者曾經下過的指令
+    (D) 列出系統安裝歷史
 ---
 
