@@ -2,12 +2,12 @@
 
 bandwidth:
 1.中文名:頻寬
-2.內部連結路能夠通過的資料量
+2.內部連結路【能夠通過的資料量】
 3.應用在電視的傳輸大小
 bps:
 1英文名稱 Bit rate (簡稱bit/s或bps)
 2.頻寬容量 的單位
-3.代表 傳輸速度、資訊傳輸速率
+3.代表 【傳輸速度】、資訊傳輸速率
 
 RFID
 1.英文全名 Radio Frequency IDentification
@@ -18,7 +18,7 @@ RFID
 NFC
 1.英文全名 Near-field communication
 2.通訊協定的一種
-3一種無線通訊技術
+3一種【無線通訊技術】
 4.應用在手機綁信用卡.
 
 cellular network
