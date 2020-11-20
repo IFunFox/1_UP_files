@@ -98,5 +98,5 @@ TCP/IP
     應用層(application)
     傳輸層(transport)
     網路互連層(internet)
-    網路連結層(Network link)
+    資料連結層(Data link)
 ---
