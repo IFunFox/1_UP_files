@@ -68,7 +68,7 @@ RWD
 
 SEO
 1.全名search engine optimization
-2.以個人的偏好設定
+2.以【個人的偏好設定】
 3.應用在youtube.google各類社群
 
 ---
