@@ -34,7 +34,7 @@ technology addiction
 Crowdsourcing 
 1.一種計畫
 2.多個人共同募資
-3.只提供給響應的人
+3.【只提供給響應的人】
 
 Crowdfunding
 1.一個外包模式
@@ -43,7 +43,7 @@ Crowdfunding
 
 metadata
 1.稱為一個標準
-2.描述資料屬性
+2.描述【資料屬性】
 3.利於分類
 
 CMS
