@@ -72,3 +72,31 @@ SEO
 3.應用在youtube.google各類社群
 
 ---
+
+---
+解釋communication protocol
+1.一種標準
+2.兩台電腦相連的準則
+3.應用在電腦.app上
+
+why Layering?
+1.用來分辨每個位置功用
+2.檢測錯誤較方面
+3.方便套用協定
+
+列出 OSI Model 與 TCP/IP protocol對應圖
+
+OSI
+    第七層Application(應用)
+    第六層Presentation(表達)
+    第五層Session(會議層)
+    第四層Transport(傳輸層)
+    第三層Network(網路層)
+    第二層Data Link(資料連接層)
+    第一層Physical(實體層)
+TCP/IP
+    應用層(application)
+    傳輸層(transport)
+    網路互連層(internet)
+    網路連結層(Network link)
+---
