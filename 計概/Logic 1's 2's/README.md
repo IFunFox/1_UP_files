@@ -1,5 +1,6 @@
 ## Signed-magnitude
 ---
+
 題目:10010010
 
 1's
