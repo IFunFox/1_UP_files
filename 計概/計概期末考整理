@@ -30,9 +30,9 @@
 
 5.負數表達法: 當電腦以 8 bits 來表達負數時.
 -39的負數表達法分別為何?
-(A)signed-magnitude(10100111)   (B)1’s complement   (C) 2’s complement
+(A)signed-magnitude(10100111)   (B)1’s complement(01011000)   (C) 2’s complement(01011001)
 
 6.負數表達法:
 當電腦以 8 bits 來表達負數時.
 底下三種負數表達法下　10010010 代表的數字為何?
- (A)signed-magnitude   (B)1’s complement   (C) 2’s complement
+ (A)signed-magnitude(-18)   (B)1’s complement(-109)   (C) 2’s complement(-110)
